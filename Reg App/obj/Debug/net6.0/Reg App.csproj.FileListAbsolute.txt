@@ -1,0 +1,36 @@
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Reg App.exe
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Reg App.deps.json
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Reg App.runtimeconfig.json
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Reg App.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Reg App.pdb
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.csproj.AssemblyReference.cache
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.AssemblyInfoInputs.cache
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.AssemblyInfo.cs
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.csproj.CoreCompileInputs.cache
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\refint\Reg App.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.pdb
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.genruntimeconfig.cache
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\ref\Reg App.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Reg App.dll.config
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kenny Allen\Desktop\Reg App - Copy\obj\Debug\net6.0\Reg App.csproj.CopyComplete
